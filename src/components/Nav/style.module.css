@@ -1,0 +1,12 @@
+.menu__item{
+    display: flex;
+    gap: 56px;
+}
+.menu__link{
+    color: rgba(18, 18, 18, 0.4);
+    font-weight: 500;
+    text-decoration: none;
+}
+.menu__link:hover{
+    text-decoration: underline;
+}

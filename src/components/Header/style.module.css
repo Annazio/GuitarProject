@@ -1,0 +1,18 @@
+.header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 50;
+}
+.header__container{
+ display: flex;
+gap: 131px;
+min-height: 152px;
+align-items: center;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+.header__logo{
+
+}

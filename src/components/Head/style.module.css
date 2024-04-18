@@ -1,0 +1,50 @@
+.page__main{
+    padding-bottom: 80px;
+}
+.head__container{
+display: flex;
+}
+.head__content{
+    flex: 0 1 50%;
+    align-self: flex-end;
+    padding-bottom: 60px;
+    padding-right: 20px;
+}
+.actions__main_button{
+padding: 18.5px 48px;
+background-color: #ff6428;
+border-radius: 40px;
+color: #fff;
+font-weight: 600;
+line-height: 28px;
+}
+.actions__main_button:not(:last-child){
+    margin-right: 40px;
+}
+.main_title{
+    font-family: CalSans;
+    color: #121212;
+    font-size: 56px;
+    line-height: 67px;
+}
+.main_title span{
+    color: #ff6428;
+}
+.main_title:not(:last-child){
+    margin-bottom: 16px;
+}
+.actions_main_app_icon:not(:last-child){
+margin-right: 27px;
+}
+.main__text{
+    line-height: 24px;
+    font-weight: 500;
+    max-width: 420px;
+}
+.main__actions{
+    display: flex;
+    align-items: center;
+}
+.main__decor{
+    flex: 0 1 50%
+}
